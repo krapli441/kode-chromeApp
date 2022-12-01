@@ -1,0 +1,44 @@
+.hidden {
+    display: none;
+}
+
+
+img {
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#clock {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 44px;
+}
+
+#greeting {
+    text-align: center;
+    font-size: 88px;
+    font-weight: bold;
+}
+
+#quote {
+    text-align: center;
+    font-size: 44px;
+}
+
+#weather {
+    text-align: center;
+    font-size: 33px;
+}
+
+#todo-form {
+    text-align: center;
+    scale: 1.5;
+}
+
+#todo-list {
+    text-align: center;
+    font-size: 33px;
+}
